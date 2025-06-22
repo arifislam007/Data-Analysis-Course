@@ -1,18 +1,21 @@
 # Data-Analysis-Course
 
+
 ## 🎓 Complete Data Analysis Course
 
-**Duration:** 6 Months | **Fee:** ৳5,000
+**Mode:** Online | **Class Duration:** 2 Hours
+**Days:** Saturday & Monday | **Time:** 9:00 PM
+**Course Length:** 6 Months | **Total Fee:** ৳5,000
 
-Master end-to-end data analysis using real-world tools and hands-on projects. This course is designed for beginners to advanced learners who want to become data analysts, business intelligence professionals, or data-driven decision makers.
+Unlock the power of data with our hands-on, project-based data analysis course. From Python to Power BI — master tools, techniques, and real-world applications in just 6 months!
 
 ---
 
 ### 🔹 Python Programming
 
-* From Basics to Advanced
-* Variable Declarations, Data Types, Control Flow
-* Functions, File Handling, Modules
+* Basics to Advanced
+* Variables, Data Types, Control Flow
+* Functions, Modules, File Handling
 * Object-Oriented Programming (OOP)
 
 ---
@@ -20,28 +23,27 @@ Master end-to-end data analysis using real-world tools and hands-on projects. Th
 ### 🔹 Statistics for Data Analysis
 
 * Descriptive Statistics
-* Probability Distributions
+* Distributions & Probability
 * Hypothesis Testing
 
 ---
 
 ### 🔹 Numpy
 
-* Creating and Reshaping Arrays
-* Indexing, Slicing, and Broadcasting
-* Mathematical and Statistical Operations
-* Array Functions and Attributes
+* Creating & Reshaping Arrays
+* Indexing & Slicing
+* Array Functions & Attributes
+* Mathematical & Statistical Operations
 
 ---
 
 ### 🔹 Pandas (Series & DataFrames)
 
-* Creating DataFrames & Importing Data
-* Indexing, Filtering, Missing Data Handling
-* Merging, Joining, and Updating
-* GroupBy, Aggregation, MultiIndex
-* Pivoting, Reshaping, Rolling, and Resampling
-* Working with Strings and Regular Expressions
+* Data Import & Creation
+* Filtering, Indexing, and Missing Data
+* Merge, Join, Update
+* GroupBy, Aggregation, Pivot, Reshape
+* DateTime Handling, String Operations, RegEx
 * Styling and Exporting Data
 
 ---
@@ -55,15 +57,15 @@ Master end-to-end data analysis using real-world tools and hands-on projects. Th
 
 ---
 
-### 🔹 Exploratory Data Analysis (EDA) & Feature Engineering
+### 🔹 EDA & Feature Engineering
 
 ---
 
-### 🧪 EDA Project Portfolio
+### 🧪 EDA Projects
 
-* IMDB Movie Dataset Analysis
-* Titanic Survival Prediction
-* Sales Data Analysis
+* IMDB Movie Analysis
+* Titanic Survival Analysis
+* Sales Performance Analysis
 * Time Series Analysis
 
 ---
@@ -71,24 +73,23 @@ Master end-to-end data analysis using real-world tools and hands-on projects. Th
 ### 🔹 MySQL
 
 * CRUD Operations
-* Basics of Relational Databases
-* Joins & Complex Queries
-* Views, Stored Procedures & Triggers
-* Window & Aggregate Functions
-* Designing Full Database Systems
+* Relational Database Concepts
+* Join Queries & Complex SQL
+* Views, Procedures, Triggers
+* Functions & Window Operations
+* Database Design
 
 #### 📊 MySQL Projects
 
 * Netflix Data Analysis
-* Sales Insights
+* Sales Analysis
 
 ---
 
 ### 🔹 Excel for Data Analysis
 
-* Basics, Formulas & Functions
-* Charts & Graphs
-* Pivot Tables
+* Basics, Functions & Formulas
+* Pivot Tables & Charts
 * EDA with Excel
 * Dashboard Projects:
 
@@ -99,9 +100,8 @@ Master end-to-end data analysis using real-world tools and hands-on projects. Th
 
 ### 🔹 Tableau
 
-* Dashboard Design Basics
-* Visualizing Charts & Graphs
-* EDA with Tableau
+* Charting & Dashboard Basics
+* EDA & Data Visualization
 * Dashboard Projects:
 
   * Sales Dashboard
@@ -111,9 +111,9 @@ Master end-to-end data analysis using real-world tools and hands-on projects. Th
 
 ### 🔹 Power BI
 
-* Interface & Visualization Basics
-* Data Modeling & DAX Essentials
-* EDA with Power BI
+* Data Modeling & Visuals
+* DAX Basics
+* EDA Projects
 * Dashboard Projects:
 
   * Sales Dashboard
@@ -121,6 +121,8 @@ Master end-to-end data analysis using real-world tools and hands-on projects. Th
 
 ---
 
-📈 **Learn by Doing**: All modules include practical exercises, real-world datasets, and projects that build your portfolio.
+📈 **Hands-On Learning**: All topics include real datasets and portfolio-building projects.
 
-📞 **Enroll Now** – Start your journey toward becoming a skilled Data Analyst!
+🎯 **Join Now** – Learn data analysis live, twice a week, in an engaging online environment!
+
+
